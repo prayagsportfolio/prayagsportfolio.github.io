@@ -1,36 +1,36 @@
 # Hi there, I'm Prayag Bhatt! 👋
 
-I am a **Product & Project Manager** with a foundational background in **Electrical Engineering**. Currently pursuing my **Master's in Engineering Management** at **Purdue University**, I bring 4 years of experience in the manufacturing and healthcare industries.
-
-My expertise lies in leading end-to-end projects, developing data-driven software solutions (EHR platforms), and enhancing operational efficiency through Lean Six Sigma methodologies.
+I am an experienced **Product/Project Manager** with a **Master's in Engineering Management** at **Purdue University** and a founcdational background in Industrial and Electrical engineering. I bring 4 years of experience managing technical project, driving data-backed strategies and leading cross-functional teams across manufacturing and technical domain.
 
 ### 🎓 Education
-* **Purdue University** | Master in Industrial/Engineering Management (Jan 2024 - Dec 2025)
+* **Purdue University** | Master in Industrial/Engineering Management
 * **Nirma University** | B.Tech, Electrical and Electronics Engineering
 
 ### 💼 Experience
-* **Research Assistant (Data Analytics)** @ Purdue University Daniels School of Business
-* **Corporate Consultant** @ Griffith Foods
+* **Data Analyst @ Purdue University Daniels School of Business
 * **Product Manager (Business Analytics)** @ Meditab Software Inc.
-    * *Focus:* EHR SaaS platform development & Business Analytics.
-* **Manufacturing Engineer** @ Reliance Industries Limited
+    * *Focus:* B2B2C SaaS product.
+* **Manufacturing Engineer (Operations)** @ Reliance Industries Limited
 
 ### 🛠️ Skills & Certifications
-* **Core Skills:** Product Management, Data Analytics, Lean Six Sigma, Artificial Intelligence (AI).
-* **Technical:** Python, SQL, AutoCAD Electrical, PLC Ladder Logic.
+* **Core Skills:** Project Management, Product Management, Data Analytics, Lean Six Sigma, Artificial Intelligence (AI).
+* **Technical:** Python, SQL, Power BI, Tableau, Minitab, R, Excel (Macros, VBA, @RISK), AutoCAD.
 * **Certifications:**
-    * Certified Scrum Product Owner® (CSPO®)
+    * Certified Scrum Product Owner (CSPO)
+    * Lean Six Sigma 
     * IBM Data Analyst Specialization
     * AI for Agile Professionals
+    * Python Programming
+    * CAD & 3D Printing
 
 ### 🚀 Featured Projects
-* **[MBTI Personality Predictor](https://github.com/YOUR-USERNAME/Portfolio/tree/main/MBTI-Personality-Predictor)**
+* **[MBTI Personality Predictor](https://github.com/prayagsportfolio/Portfolio/tree/main/MBTI-Personality-Predictor)**
     * *Description:* A machine learning model that predicts personality types based on psychometric data with 90.4% accuracy.
-    * *Tech Stack:* Random Forest, Decision Trees, Python.
+    * *Tech Stack:* Random Forest, Decision Trees, R.
 
 ### 📫 Connect with Me
 * [LinkedIn Profile](https://www.linkedin.com/in/prayagbhatt)
 * [Email Me](mailto:prayaghbhatt1@hotmail.com)
 
 ---
-*Thanks for visiting my portfolio!*
+*Thanks for visiting my portfolio! Let's connect and discuss how my skills can help your team navigate scalability or sustainability challenges*
