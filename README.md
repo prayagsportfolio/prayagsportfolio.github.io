@@ -1,12 +1,12 @@
 # Hi there, I'm Prayag Bhatt! 👋
 
-I am an experienced Product/Project Manager with a Master's in Engineering Management and a founcdational background in Industrial and Electrical engineering. I bring 4 years of experience managing technical project, driving data-backed strategies and leading cross-functional teams across manufacturing and technical domain.
+I am an experienced Product/Project Manager with a Master's in Engineering Management and a foundational background in Industrial and Electrical engineering. I bring 4 years of experience managing technical projects, driving data-backed strategies and leading cross-functional teams across manufacturing and technical domain.
 
 ### 🎓 Education
 * **MS in Engineering Management** @ Purdue University, IN
    * Major: Industrial Engineering | Minor: Project Management, Supply Chain   
 * **B.Tech in Electrical Engineering** @ Nirma University, India
-   * * Minor: Finance, Machine Design
+   * Minor: Finance, Machine Design
 
 ### 💼 Experience
 * **Data Analyst** @ Purdue University Daniels School of Business
