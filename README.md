@@ -4,8 +4,7 @@ I am an experienced Product/Project Manager with a Master's in Engineering Manag
 
 ### 🎓 Education
 * **MS in Engineering Management** @ Purdue University, IN
-   * Major: Industrial Engineering
-   * Minor: Project Management, Supply Chain  
+   * Major: Industrial Engineering | Minor: Project Management, Supply Chain  
 * **B.Tech in Electrical Engineering** @ Nirma University, India
    * Minor: Finance, Machine Design
 
