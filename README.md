@@ -1,4 +1,4 @@
-<font size="+5">Hi there, I'm Prayag Bhatt! 👋.</font>
+<span style="font-size: 24px;">Hi there, I'm Prayag Bhatt! 👋</span>
 
 I am an experienced Product/Project Manager with a Master's in Engineering Management and a foundational background in Industrial and Electrical engineering. I bring 4 years of experience managing technical projects, driving data-backed strategies and leading cross-functional teams across manufacturing and technical domain.
 
