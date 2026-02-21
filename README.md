@@ -16,7 +16,7 @@ I am an experienced Product/Project Manager with a Master's in Engineering Manag
 
 ### 🛠️ Skills & Certifications
 * **Core Competencies:** Project Management, Product Management, Data Analytics, Supply Chain, Lean Six Sigma, Artificial Intelligence (AI).
-* **Technical:** Python, SQL, Power BI, Tableau, Minitab, R, Excel (Macros, VBA, @RISK), AutoCAD.
+* **Technical:** Python, SQL, Power BI, Tableau, Minitab, Excel (Macros, VBA, @RISK), R, JIRA, AutoCAD, Figma.
 * **Certifications:**
     * Certified Scrum Product Owner (CSPO)
     * Lean Six Sigma 
@@ -34,4 +34,4 @@ A comprehensive collection of my data analytics, product and engineering project
 * [Email Me](mailto:prayaghbhatt1@hotmail.com)
 
 ---
-*Thanks for visiting my portfolio! Let's connect and discuss how my skills can help your team navigate scalability or sustainability challenges*
+**Thanks for visiting my portfolio! Let's connect and discuss how my skills can help your team navigate scalability or sustainability challenges**
