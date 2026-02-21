@@ -15,7 +15,7 @@ I am an experienced Product/Project Manager with a Master's in Engineering Manag
 * **Manufacturing Engineer (Operations)** @ Reliance Industries Limited
 
 ### 🛠️ Skills & Certifications
-* **Core Skills:** Project Management, Product Management, Data Analytics, Lean Six Sigma, Artificial Intelligence (AI).
+* **Core Competencies:** Project Management, Product Management, Data Analytics, Supply Chain, Lean Six Sigma, Artificial Intelligence (AI).
 * **Technical:** Python, SQL, Power BI, Tableau, Minitab, R, Excel (Macros, VBA, @RISK), AutoCAD.
 * **Certifications:**
     * Certified Scrum Product Owner (CSPO)
