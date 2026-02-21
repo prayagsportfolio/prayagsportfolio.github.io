@@ -4,8 +4,7 @@ I am an experienced Product/Project Manager with a Master's in Engineering Manag
 
 ### 🎓 Education
 * **MS in Engineering Management** @ Purdue University, IN
-   * **Coursework:** Machine Learning
-                 | Corporate Consulting
+   * **Coursework:** Machine Learning | Corporate Consulting
                  | Strategic Management
                  | Project Management
                  | New Product Development
